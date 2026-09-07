@@ -2,6 +2,8 @@
 
 **A practical first-week companion for employees getting access to ChatGPT Enterprise and Codex.**
 
+> **Restricted use:** Copyright © 2026 Weiwei Hu. All rights reserved. No permission is granted to download, copy, reuse, modify, distribute, create derivative works from, or use this material for AI training or retrieval without prior written permission. GitHub’s required platform-specific rights still apply. See the [full restricted-use notice](LICENSE.md).
+
 ![New to ChatGPT or Codex? Start Here](assets/newsletter-cover.png)
 
 ## Choose your starting point
@@ -77,6 +79,7 @@ Most tasks need only a few of these. Start with the smallest setup that can prod
 | [`assets/newsletter-cover.png`](assets/newsletter-cover.png) | Newsletter and social cover image |
 | [`skills/weekly-leadership-update/SKILL.md`](skills/weekly-leadership-update/SKILL.md) | Reusable Skill for a weekly or monthly leadership update |
 | [`SOURCES.md`](SOURCES.md) | Official OpenAI product references used for the kit |
+| [`LICENSE.md`](LICENSE.md) | All Rights Reserved restricted-use terms and permission process |
 
 ## Repository structure
 
@@ -86,6 +89,7 @@ chatgpt-enterprise-codex-starter-kit/
 ├── Practical Guide.md
 ├── How to Start.md
 ├── SOURCES.md
+├── LICENSE.md
 ├── assets/
 │   ├── chatgpt-work-system-cheatsheet.png
 │   └── newsletter-cover.png
