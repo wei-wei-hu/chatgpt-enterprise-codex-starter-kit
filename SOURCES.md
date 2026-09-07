@@ -4,6 +4,11 @@ Last reviewed: **September 7, 2026**.
 
 Product names, availability, interfaces, permissions, and plan requirements can change. Confirm current details in your workspace and the official documentation.
 
+## Public access and learning
+
+- [ChatGPT on the web](https://chatgpt.com/)
+- [OpenAI Academy: courses and learning resources](https://academy.openai.com/)
+
 ## Core products
 
 - [Use ChatGPT: choose Chat, ChatGPT Work, or Codex](https://learn.chatgpt.com/docs/use-chatgpt)
@@ -40,3 +45,7 @@ The “GPT = who” and “Skill = how” language in this repository is a teach
 - A RedNote post by **pandorait1024** titled “Build an AI Agent in 10 Minutes.” It was supplied as a screenshot; a canonical post URL was not included.
 
 These posts informed the teaching format and visual direction. The English guidance in this repository was rewritten for ChatGPT Enterprise and Codex, then checked against the official sources above.
+
+## Source inclusion policy
+
+This public source list includes only organization-neutral resources available outside a company intranet. Internal portals, employee onboarding instructions, SSO directions, help addresses, partnership announcements, employee license-assignment messages, and company-specific training details are intentionally excluded.
