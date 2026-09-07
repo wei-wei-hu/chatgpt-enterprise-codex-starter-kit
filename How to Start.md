@@ -1,10 +1,8 @@
 # ChatGPT Enterprise & Codex at Work: What to Use and How to Start
 
-**A practical guide to choosing your first task, reviewing the result, and making recurring work easier—with a cheat sheet and GitHub starter kit.**
+**A practical guide to choosing your first task, reviewing the result, and making recurring work easier, with a cheat sheet and GitHub starter kit.**
 
 ![New to ChatGPT or Codex? Start Here](assets/newsletter-cover.png)
-
-Happy Labor Day!
 
 As ChatGPT Enterprise and Codex licenses begin reaching more employees, I keep hearing two questions:
 
@@ -25,6 +23,8 @@ The one-page guide below explains the eight building blocks, what each one does,
 
 ![ChatGPT and Codex work-system cheat sheet](assets/chatgpt-work-system-cheatsheet.png)
 
+**Terminology note:** The visual uses two short labels. “Work (Agent)” refers to **ChatGPT Work**, and “Scheduled Work” refers to **Scheduled tasks** in the current product documentation.
+
 ## Start with work you can judge
 
 Your first task should be frequent, bounded, supported by known sources, quick to review, and useful for a decision or action.
@@ -39,15 +39,15 @@ Starting with familiar work gives you an advantage: you can recognize missing ev
 
 Before exploring every feature, decide what result you want.
 
-Use **Chat** for thinking, drafting, summarizing, and feedback. Use **Work** when the assignment requires several connected steps and a finished business deliverable. Use **Codex** when the result requires code, scripts, testing, repositories, file processing, or another technical implementation.
+Use **Chat** for thinking, drafting, summarizing, and feedback. Use **ChatGPT Work** when the assignment requires several connected steps and a finished, reviewable business deliverable. Use **Codex** when the result requires code, scripts, testing, repositories, file processing, or another technical implementation.
 
-The useful question is not which product is “more advanced.” It is whether you need a conversation, a finished deliverable, or executable technical work.
+Choose based on whether you need a conversation, a finished deliverable, or executable technical work.
 
 ## Let one task earn the next capability
 
 Imagine a weekly leadership update.
 
-The first Friday, use Chat to produce one draft from your notes. The second Friday, add a Project and Library when you realize you are repeating the background and finding the same materials. The third Friday, capture the stable role in a GPT and the repeatable procedure in a Skill. The fourth Friday, connect approved Apps and use Work when gathering and synthesizing information becomes the slowest part.
+The first Friday, use Chat to produce one draft from your notes. The second Friday, add a Project and Library when you realize you are repeating the background and finding the same materials. The third Friday, capture the stable role in a GPT and the repeatable procedure in a Skill. The fourth Friday, connect approved Apps and use ChatGPT Work when gathering and synthesizing information becomes the slowest part.
 
 After several reviewed runs, schedule the process. Bring in Codex only when the update needs scripts, data processing, automated checks, or an internal tool.
 
@@ -83,7 +83,7 @@ Begin with assistance: drafting, summarizing, or critique. Move to execution whe
 
 ## Your first 30 minutes
 
-Pick one task you will perform again within the next two weeks. Define the audience, decision, sources, deliverable, and review point. Choose Chat, Work, or Codex based on the result. Complete one attempt, review it, and identify the single repeated step that deserves to be preserved next.
+Pick one task you will perform again within the next two weeks. Define the audience, decision, sources, deliverable, and review point. Choose Chat, ChatGPT Work, or Codex based on the result. Complete one attempt, review it, and identify the single repeated step that deserves to be preserved next.
 
 You do not need to master every capability this week. One reviewed task is enough to begin.
 

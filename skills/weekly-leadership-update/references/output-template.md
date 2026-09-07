@@ -1,14 +1,18 @@
 # Weekly Leadership Update Template
 
+- **Reporting period:**
+- **Prepared for:**
+- **Evidence reviewed through:**
+
 ## TL;DR
 
 Summarize the reporting period in no more than five lines. State the most important result, risk, decision, and next milestone.
 
-## Proven or live value
+## Reported, validated, or realized results
 
-| Item | Evidence or result | Owner | Date / status |
-|---|---|---|---|
-|  |  |  |  |
+| Item | Value stage | Evidence or result | Baseline / denominator | Owner | Evidence date |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
 
 ## Active work or pilots
 

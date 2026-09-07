@@ -27,7 +27,7 @@ Ask for any missing items before drafting:
 2. Extract factual updates, dates, owners, metrics, decisions, risks, dependencies, and next milestones.
 3. Remove duplicates and reconcile repeated items.
 4. Separate the content into:
-   - Proven or live value
+   - Reported, validated, or realized results
    - Active work or pilots
    - Risks and blockers
    - Decisions needed
@@ -44,6 +44,7 @@ Ask for any missing items before drafting:
 - Concise executive language
 - Complete sentences
 - Evidence or source reference for important factual claims
+- Value stage for every reported result: reported, estimated, validated, or realized
 - Owners and dates where available
 - No invented metrics, status, causes, or commitments
 - No external sending or publishing without approval
@@ -53,7 +54,8 @@ Ask for any missing items before drafting:
 Before finalizing, verify that:
 
 - The reporting period is correct.
-- Proven value is separated from pilots or expected value.
+- Reported, estimated, validated, and realized value are separated.
+- Live or completed status is not presented as proof of business value.
 - Every major claim is traceable to an approved source.
 - Risks and blockers state the potential impact.
 - Decisions needed are easy to find.

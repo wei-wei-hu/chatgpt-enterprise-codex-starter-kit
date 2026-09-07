@@ -33,3 +33,10 @@ Product names, availability, interfaces, permissions, and plan requirements can 
 ## Notes on interpretation
 
 The “GPT = who” and “Skill = how” language in this repository is a teaching shortcut. GPTs can include instructions, knowledge, capabilities, apps, and actions; Skills package reusable instructions, examples, resources, and sometimes code. The shortcut helps a new user decide where to preserve a stable role versus a reusable procedure.
+
+## Framework inspiration supplied for this project
+
+- A RedNote carousel by **木木脑回路** describing eight ChatGPT work modes. The creator name and content were available in screenshots supplied for this project; a canonical post URL was not included.
+- A RedNote post by **pandorait1024** titled “Build an AI Agent in 10 Minutes.” It was supplied as a screenshot; a canonical post URL was not included.
+
+These posts informed the teaching format and visual direction. The English guidance in this repository was rewritten for ChatGPT Enterprise and Codex, then checked against the official sources above.

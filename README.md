@@ -4,6 +4,12 @@
 
 ![New to ChatGPT or Codex? Start Here](assets/newsletter-cover.png)
 
+## Choose your starting point
+
+- **Need a short introduction?** Read [`How to Start.md`](How%20to%20Start.md).
+- **Ready to try one real task?** Use the 30-minute exercise in [`Practical Guide.md`](Practical%20Guide.md#your-first-30-minutes).
+- **Preparing a recurring leadership update?** Use the [`weekly-leadership-update` Skill](skills/weekly-leadership-update/SKILL.md).
+
 ## Why this repository exists
 
 As ChatGPT Enterprise and Codex licenses reach more employees, the first questions are usually simple:
@@ -22,9 +28,9 @@ This is a practitioner-created starter kit. Product access, data rules, approval
 
 1. **Pick one real task** you already understand well enough to review.
 2. **Define the result**: audience, decision, sources, deliverable, and approval point.
-3. **Choose the experience**: Chat, Work, or Codex.
+3. **Choose the experience**: Chat, ChatGPT Work, or Codex.
 4. **Complete one reviewed run** and note where the result helped or required correction.
-5. **Preserve one repeated part** using a Project, Library, GPT, Skill, App, Work, Scheduled Work, or Codex.
+5. **Preserve one repeated part** using a Project, Library, GPT, Skill, App, ChatGPT Work, Scheduled tasks, or Codex.
 
 > **Let the task earn the next capability.**
 
@@ -36,12 +42,14 @@ The cheat sheet summarizes the eight capabilities, practical first actions, and 
 
 ![ChatGPT Enterprise and Codex starter cheat sheet](assets/chatgpt-work-system-cheatsheet.png)
 
+**Terminology note:** The visual uses two short labels. “Work (Agent)” refers to **ChatGPT Work**, and “Scheduled Work” refers to **Scheduled tasks** in the current product documentation.
+
 ## Choose by the result you need
 
 | Result | Start with | Typical examples |
 |---|---|---|
 | Conversation, drafting, summarization, critique, or exploration | **Chat** | Prepare questions, review a draft, summarize notes, test an idea |
-| Research across sources plus a finished business deliverable | **Work** | Meeting brief, customer-feedback analysis, comparison, leadership report |
+| Research across sources plus a finished, reviewable business deliverable | **ChatGPT Work** | Meeting brief, customer-feedback analysis, comparison, leadership report |
 | Code, scripts, tests, repositories, repeatable file processing, or a technical tool | **Codex** | Combine files, validate data, create a script, test code, create an internal utility |
 
 ## The eight capabilities
@@ -53,8 +61,8 @@ The cheat sheet summarizes the eight capabilities, practical first actions, and 
 | **GPT** | The role, audience, expertise, tone, or boundaries |
 | **Skill** | The procedure, examples, output format, or quality checks |
 | **Plugin / App** | Access to approved systems such as Outlook, Teams, SharePoint, or OneDrive |
-| **Work** | A connected sequence of research, analysis, production, and review |
-| **Scheduled Work** | The same timing, trigger, monitoring need, or recurring output |
+| **ChatGPT Work** | A connected sequence of research, analysis, production, and review |
+| **Scheduled tasks** | The same timing, trigger, monitoring need, or recurring output |
 | **Codex** | Code, file processing, validation, testing, or technical delivery |
 
 Most tasks need only a few of these. Start with the smallest setup that can produce a useful result.

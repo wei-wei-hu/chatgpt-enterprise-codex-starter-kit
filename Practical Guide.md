@@ -4,7 +4,7 @@ This guide consolidates the first-use exercise, decision guide, prompts, example
 
 ## The core sequence
 
-> **Pick one real task → define “done” → choose Chat, Work, or Codex → complete one reviewed run → preserve one repeated part.**
+> **Pick one real task → define “done” → choose Chat, ChatGPT Work, or Codex → complete one reviewed run → preserve one repeated part.**
 
 ## Your first 30 minutes
 
@@ -31,12 +31,12 @@ Write down five items:
 4. **Deliverable:** What format, length, and sections are required?
 5. **Review point:** What should pause for human judgment or approval?
 
-### 10–20 minutes: Choose Chat, Work, or Codex
+### 10–20 minutes: Choose Chat, ChatGPT Work, or Codex
 
 | Need | Start with |
 |---|---|
 | Conversational help, drafting, summarization, critique, or idea exploration | **Chat** |
-| Several connected steps plus a finished business deliverable | **Work** |
+| Several connected steps plus a finished, reviewable business deliverable | **ChatGPT Work** |
 | Code, scripts, tests, repositories, or repeatable technical processing | **Codex** |
 
 ### 20–25 minutes: Review the result
@@ -59,8 +59,8 @@ Check:
 | Expert role, audience, tone, and boundaries | **GPT** |
 | Procedure, examples, output format, and quality checks | **Skill** |
 | Access to approved systems | **Plugin / App** |
-| Multi-step execution | **Work** |
-| Timing, recurrence, monitoring, or triggers | **Scheduled Work** |
+| Multi-step execution | **ChatGPT Work** |
+| Timing, recurrence, monitoring, or triggers | **Scheduled tasks** |
 | Code, data, or file processing | **Codex** |
 
 Choose one next addition. Every extra layer should remove a known manual step.
@@ -73,7 +73,7 @@ Choose one next addition. Every extra layer should remove a known manual step.
 flowchart TD
     A[Pick one real task] --> B{What result do you need?}
     B -->|Conversation, draft, summary, feedback| C[Chat]
-    B -->|Research plus a finished business deliverable| D[Work]
+    B -->|Research plus a finished reviewable deliverable| D[ChatGPT Work]
     B -->|Code, scripts, data processing, tests, or a tool| E[Codex]
     C --> F[Run once and review]
     D --> F
@@ -84,8 +84,8 @@ flowchart TD
     G -->|Role| J[GPT]
     G -->|Method| K[Skill]
     G -->|External systems| L[Plugin / App]
-    G -->|Connected steps| M[Work]
-    G -->|Timing or trigger| N[Scheduled Work]
+    G -->|Connected steps| M[ChatGPT Work]
+    G -->|Timing or trigger| N[Scheduled tasks]
     G -->|Technical processing| O[Codex]
 ```
 
@@ -98,8 +98,8 @@ flowchart TD
 | “I keep correcting the role, audience, or tone.” | Define a **GPT** after the stable requirements are known. |
 | “I keep rewriting the same procedure.” | Create a **Skill** with steps, examples, output requirements, and checks. |
 | “The task needs Outlook, Teams, SharePoint, or another approved system.” | Connect the relevant **App** and test a low-risk read or action. |
-| “The work requires research, comparison, synthesis, and a finished deliverable.” | Use **Work** with a defined objective and review point. |
-| “The process should run weekly, monthly, or after an event.” | Use **Scheduled Work** after several dependable runs. |
+| “The work requires research, comparison, synthesis, and a finished deliverable.” | Use **ChatGPT Work** with a defined objective and review point. |
+| “The process should run weekly, monthly, or after an event.” | Use **Scheduled tasks** after several dependable runs. |
 | “The result requires scripts, tests, file processing, or an internal tool.” | Use **Codex** with explicit acceptance criteria. |
 
 ### Three operating rules
@@ -134,11 +134,11 @@ Use a **GPT** for the continuing role and standards, such as concise executive c
 
 ### Fourth run: Connect sources and complete the assignment
 
-Connect approved Apps such as Outlook, Teams, SharePoint, OneDrive, or Planner when the assignment needs information from those systems. Use Work to gather, filter, compare, analyze, draft, verify, and prepare the result for review.
+Connect approved Apps such as Outlook, Teams, SharePoint, OneDrive, or Planner when the assignment needs information from those systems. Use ChatGPT Work to gather, filter, compare, analyze, draft, verify, and prepare the result for review.
 
 ### Later: Add recurrence or technical execution
 
-Use Scheduled Work after the manual process produces dependable results. Add Codex when the update requires file consolidation, validation, scripts, automated tables, tests, or an internal reporting utility.
+Use Scheduled tasks after the manual process produces dependable results. Add Codex when the update requires file consolidation, validation, scripts, automated tables, tests, or an internal reporting utility.
 
 > **Review first. Repeat second. Automate third.**
 
@@ -172,12 +172,12 @@ Before starting, ask me for:
 4. The expected deliverable and length
 5. The review or approval point
 
-Recommend whether I should begin in Chat, Work, or Codex. Start with the simplest useful setup.
+Recommend whether I should begin in Chat, ChatGPT Work, or Codex. Start with the simplest useful setup.
 
-After the first result, tell me which parts are likely to repeat and which one capability—Project, Library, GPT, Skill, Plugin/App, Work, Scheduled Work, or Codex—would make the next run easier.
+After the first result, tell me which parts are likely to repeat and which one capability (Project, Library, GPT, Skill, Plugin/App, ChatGPT Work, Scheduled tasks, or Codex) would make the next run easier.
 ```
 
-### Prompt 2: Finished Work assignment
+### Prompt 2: Finished ChatGPT Work assignment
 
 ```text
 Prepare [deliverable] for [audience] to support [decision or action].
@@ -300,7 +300,7 @@ Your company’s policies, approved tools, data classifications, and review requ
 - Confirm which actions can write, send, delete, publish, or alter external information.
 - Identify who can authorize organization-wide Microsoft permissions when required.
 
-### Before using Work or an agent
+### Before using ChatGPT Work or an agent
 
 - State the permitted sources and systems.
 - Define the deliverable and stopping point.
