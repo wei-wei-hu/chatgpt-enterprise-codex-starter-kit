@@ -2,6 +2,8 @@
 
 This guide consolidates the first-use exercise, decision guide, prompts, examples, measurement approach, and governance checks for employees getting access to ChatGPT Enterprise or Codex.
 
+If your organization also provides Microsoft Copilot, use the [Microsoft Copilot and ChatGPT Enterprise comparison](Microsoft%20Copilot%20and%20ChatGPT%20Enterprise.md) to choose a starting tool and define any approved handoff between them.
+
 ## The core sequence
 
 > **Pick one real task → define “done” → choose Chat, ChatGPT Work, or Codex → complete one reviewed run → preserve one repeated part.**
@@ -134,7 +136,7 @@ Use a **GPT** for the continuing role and standards, such as concise executive c
 
 ### Fourth run: Connect sources and complete the assignment
 
-Connect approved Apps such as Outlook, Teams, SharePoint, OneDrive, or Planner when the assignment needs information from those systems. Use ChatGPT Work to gather, filter, compare, analyze, draft, verify, and prepare the result for review.
+Connect approved Apps such as Outlook, Teams, SharePoint, or other configured services when the assignment needs information from those systems. Use ChatGPT Work to gather, filter, compare, analyze, draft, verify, and prepare the result for review.
 
 ### Later: Add recurrence or technical execution
 

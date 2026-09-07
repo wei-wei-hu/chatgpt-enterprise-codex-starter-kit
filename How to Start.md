@@ -96,6 +96,7 @@ I hope the attached cheat sheet and GitHub starter kit give you a practical plac
 ## Companion resources
 
 - [Complete practical starter guide](Practical%20Guide.md)
+- [Microsoft Copilot and ChatGPT Enterprise comparison](Microsoft%20Copilot%20and%20ChatGPT%20Enterprise.md)
 - [Reusable weekly leadership-update Skill](skills/weekly-leadership-update/SKILL.md)
 - [Official sources](SOURCES.md)
 

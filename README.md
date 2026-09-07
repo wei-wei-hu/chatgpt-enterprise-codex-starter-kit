@@ -10,6 +10,7 @@
 
 - **Need a short introduction?** Read [`How to Start.md`](How%20to%20Start.md).
 - **Ready to try one real task?** Use the 30-minute exercise in [`Practical Guide.md`](Practical%20Guide.md#your-first-30-minutes).
+- **Choosing between Microsoft Copilot and ChatGPT Enterprise?** Use the [`practical comparison guide`](Microsoft%20Copilot%20and%20ChatGPT%20Enterprise.md).
 - **Preparing a recurring leadership update?** Use the [`weekly-leadership-update` Skill](skills/weekly-leadership-update/SKILL.md).
 
 ## Why this repository exists
@@ -20,7 +21,7 @@ As ChatGPT Enterprise and Codex licenses reach more employees, the first questio
 - Which experience fits the work I need to do?
 - What should I try before adding more automation?
 
-This repository gives employees, leaders, and enablement teams a practical starting point. It combines a one-page cheat sheet, a 30-minute first-use exercise, a decision guide, copy-and-paste prompts, governance checks, and a reusable leadership-update Skill.
+This repository gives employees, leaders, and enablement teams a practical starting point. It combines a one-page cheat sheet, a 30-minute first-use exercise, a Microsoft Copilot comparison, copy-and-paste prompts, governance checks, and a reusable leadership-update Skill.
 
 This is a practitioner-created starter kit. Product access, data rules, approvals, and allowed integrations depend on your organization and workspace configuration.
 
@@ -62,7 +63,7 @@ The cheat sheet summarizes the eight capabilities, practical first actions, and 
 | **Library** | Reports, templates, research, standards, or examples |
 | **GPT** | The role, audience, expertise, tone, or boundaries |
 | **Skill** | The procedure, examples, output format, or quality checks |
-| **Plugin / App** | Access to approved systems such as Outlook, Teams, SharePoint, or OneDrive |
+| **Plugin / App** | Access to approved external systems, depending on available plugins and workspace configuration |
 | **ChatGPT Work** | A connected sequence of research, analysis, production, and review |
 | **Scheduled tasks** | The same timing, trigger, monitoring need, or recurring output |
 | **Codex** | Code, file processing, validation, testing, or technical delivery |
@@ -75,10 +76,11 @@ Most tasks need only a few of these. Start with the smallest setup that can prod
 |---|---|
 | [`Practical Guide.md`](Practical%20Guide.md) | Consolidated practical guide: first 30 minutes, decision map, prompts, example, measurement, and governance |
 | [`How to Start.md`](How%20to%20Start.md) | Publishable newsletter explaining the reasoning behind the kit |
+| [`Microsoft Copilot and ChatGPT Enterprise.md`](Microsoft%20Copilot%20and%20ChatGPT%20Enterprise.md) | Selection guide, combined workflows, prompts, responsible-use expectations, use cases, barriers, and success-story validation |
 | [`assets/chatgpt-work-system-cheatsheet.png`](assets/chatgpt-work-system-cheatsheet.png) | Full-resolution eight-capability cheat sheet |
 | [`assets/newsletter-cover.png`](assets/newsletter-cover.png) | Newsletter and social cover image |
 | [`skills/weekly-leadership-update/SKILL.md`](skills/weekly-leadership-update/SKILL.md) | Reusable Skill for a weekly or monthly leadership update |
-| [`SOURCES.md`](SOURCES.md) | Official OpenAI product references used for the kit |
+| [`SOURCES.md`](SOURCES.md) | Official OpenAI and Microsoft product references plus framework provenance |
 | [`LICENSE.md`](LICENSE.md) | All Rights Reserved restricted-use terms and permission process |
 
 ## Repository structure
@@ -88,6 +90,7 @@ chatgpt-enterprise-codex-starter-kit/
 ├── README.md
 ├── Practical Guide.md
 ├── How to Start.md
+├── Microsoft Copilot and ChatGPT Enterprise.md
 ├── SOURCES.md
 ├── LICENSE.md
 ├── assets/

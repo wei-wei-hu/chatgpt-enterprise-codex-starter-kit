@@ -1,8 +1,10 @@
-# Official Sources
+# Sources
 
 Last reviewed: **September 7, 2026**.
 
 Product names, availability, interfaces, permissions, and plan requirements can change. Confirm current details in your workspace and the official documentation.
+
+Product claims in this repository are grounded in the official OpenAI and Microsoft references below. A later section separately records the nonofficial visual sources that informed the teaching format.
 
 ## Public access and learning
 
@@ -15,6 +17,8 @@ Product names, availability, interfaces, permissions, and plan requirements can 
 - [Get started with ChatGPT Work](https://learn.chatgpt.com/docs/get-started-with-work)
 - [ChatGPT features](https://learn.chatgpt.com/docs/features)
 - [ChatGPT Work and Codex pricing and plan access](https://learn.chatgpt.com/docs/pricing)
+- [Prompting in ChatGPT](https://learn.chatgpt.com/docs/prompting)
+- [ChatGPT use-case library](https://learn.chatgpt.com/use-cases)
 
 ## Projects, files, GPTs, and Skills
 
@@ -30,6 +34,15 @@ Product names, availability, interfaces, permissions, and plan requirements can 
 - [Plugin controls for Enterprise](https://learn.chatgpt.com/docs/enterprise/apps-and-connectors)
 - [ChatGPT Enterprise administration](https://learn.chatgpt.com/docs/administration)
 - [ChatGPT Enterprise rollout guide](https://learn.chatgpt.com/docs/enterprise/admin-setup)
+- [ChatGPT Work cloud security](https://learn.chatgpt.com/docs/enterprise/chatgpt-work-cloud-security)
+
+## Microsoft Copilot
+
+- [Microsoft Copilot overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-overview)
+- [Microsoft Copilot Cowork overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/)
+- [Data, privacy, and security for Microsoft Copilot](https://learn.microsoft.com/en-us/microsoft-365/copilot/microsoft-365-copilot-privacy)
+- [Get started writing prompts in Microsoft Copilot](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-writing-prompts-in-microsoft-365-copilot)
+- [Validate Copilot output before you act](https://support.microsoft.com/en-us/microsoft-365-copilot/validate-copilot-output)
 
 ## Scheduled work
 
