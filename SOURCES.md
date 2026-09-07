@@ -6,29 +6,29 @@ Product names, availability, interfaces, permissions, and plan requirements can 
 
 ## Core products
 
-- [ChatGPT Work and Codex](https://help.openai.com/en/articles/20001275-chatgpt-work-and-codex)
-- [Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-using-codex-with-your-chatgpt-plan)
-- [ChatGPT Capabilities Overview](https://help.openai.com/en/articles/9260256-chatgpt-capabilities-overview)
+- [Use ChatGPT: choose Chat, ChatGPT Work, or Codex](https://learn.chatgpt.com/docs/use-chatgpt)
+- [Get started with ChatGPT Work](https://learn.chatgpt.com/docs/get-started-with-work)
+- [ChatGPT features](https://learn.chatgpt.com/docs/features)
+- [ChatGPT Work and Codex pricing and plan access](https://learn.chatgpt.com/docs/pricing)
 
-## Projects, Library, GPTs, and Skills
+## Projects, files, GPTs, and Skills
 
-- [File storage and Library in ChatGPT](https://help.openai.com/en/articles/20001052-file-storage-and-library-in-chatgpt)
-- [Creating and editing GPTs](https://help.openai.com/en/articles/8554397-creating-and-editing-gpts)
-- [Skills in ChatGPT](https://help.openai.com/en/articles/20001066-skills-in-chatgpt)
-- [Build skills for ChatGPT and Codex](https://developers.openai.com/codex/build-skills)
+- [Projects and chats](https://learn.chatgpt.com/docs/projects)
+- [Work with files](https://learn.chatgpt.com/docs/artifacts-viewer)
+- [GPTs and sharing in Enterprise](https://learn.chatgpt.com/docs/enterprise/gpts-and-sharing)
+- [Build skills](https://learn.chatgpt.com/docs/build-skills)
+- [Skills and Plugins](https://learn.chatgpt.com/docs/skills-and-plugins)
 
 ## Apps, plugins, and Microsoft connections
 
-- [Apps in ChatGPT](https://help.openai.com/en/articles/11487775-connectors-in-chatgpt)
-- [Plugins in ChatGPT and Codex](https://help.openai.com/en/articles/20001256-plugins-in-chatgpt-and-codex)
-- [Outlook Email and Calendar apps in ChatGPT](https://help.openai.com/en/articles/12512241-outlook-email-and-calendar-apps-in-chatgpt)
-- [Microsoft Teams app and setup in ChatGPT](https://help.openai.com/en/articles/12552368-microsoft-teams-app-and-setup-in-chatgpt)
-- [SharePoint app and setup in ChatGPT](https://help.openai.com/en/articles/12143177-sharepoint-app-in-chatgpt)
-- [Admin controls, security, and compliance for plugins and apps](https://help.openai.com/en/articles/11509118-admin-controls-security-and-compliance-for-plugins-and-apps)
+- [Plugins](https://learn.chatgpt.com/docs/plugins)
+- [Plugin controls for Enterprise](https://learn.chatgpt.com/docs/enterprise/apps-and-connectors)
+- [ChatGPT Enterprise administration](https://learn.chatgpt.com/docs/administration)
+- [ChatGPT Enterprise rollout guide](https://learn.chatgpt.com/docs/enterprise/admin-setup)
 
 ## Scheduled work
 
-- [Scheduled tasks in ChatGPT](https://help.openai.com/en/articles/10291617-tasks-in-chatgpt)
+- [Scheduled tasks](https://learn.chatgpt.com/docs/automations)
 
 ## Notes on interpretation
 

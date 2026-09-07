@@ -63,8 +63,8 @@ Most tasks need only a few of these. Start with the smallest setup that can prod
 
 | Resource | Purpose |
 |---|---|
-| [`STARTER-KIT.md`](STARTER-KIT.md) | Consolidated practical guide: first 30 minutes, decision map, prompts, example, measurement, and governance |
-| [`NEWSLETTER.md`](NEWSLETTER.md) | Publishable newsletter explaining the reasoning behind the kit |
+| [`Practical Guide.md`](Practical%20Guide.md) | Consolidated practical guide: first 30 minutes, decision map, prompts, example, measurement, and governance |
+| [`How to Start.md`](How%20to%20Start.md) | Publishable newsletter explaining the reasoning behind the kit |
 | [`assets/chatgpt-work-system-cheatsheet.png`](assets/chatgpt-work-system-cheatsheet.png) | Full-resolution eight-capability cheat sheet |
 | [`assets/newsletter-cover.png`](assets/newsletter-cover.png) | Newsletter and social cover image |
 | [`skills/weekly-leadership-update/SKILL.md`](skills/weekly-leadership-update/SKILL.md) | Reusable Skill for a weekly or monthly leadership update |
@@ -75,8 +75,8 @@ Most tasks need only a few of these. Start with the smallest setup that can prod
 ```text
 chatgpt-enterprise-codex-starter-kit/
 ├── README.md
-├── STARTER-KIT.md
-├── NEWSLETTER.md
+├── Practical Guide.md
+├── How to Start.md
 ├── SOURCES.md
 ├── assets/
 │   ├── chatgpt-work-system-cheatsheet.png
@@ -90,11 +90,11 @@ chatgpt-enterprise-codex-starter-kit/
 
 ## Suggested use
 
-**Employees:** Start with the 30-minute exercise in [`STARTER-KIT.md`](STARTER-KIT.md#your-first-30-minutes), then use the cheat sheet to choose one capability to add.
+**Employees:** Start with the 30-minute exercise in [`Practical Guide.md`](Practical%20Guide.md#your-first-30-minutes), then use the cheat sheet to choose one capability to add.
 
 **Leaders and enablement teams:** Share the newsletter and cheat sheet, then use the decision guide and governance checks during onboarding sessions.
 
-**Technical users:** Use the Codex prompt in [`STARTER-KIT.md`](STARTER-KIT.md#prompt-3-codex-task) and define inputs, constraints, tests, and acceptance criteria before execution.
+**Technical users:** Use the Codex prompt in [`Practical Guide.md`](Practical%20Guide.md#prompt-3-codex-task) and define inputs, constraints, tests, and acceptance criteria before execution.
 
 ## Important note
 

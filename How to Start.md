@@ -63,7 +63,7 @@ Many weak outputs begin with a request that never defines “done.” For seriou
 4. What exact deliverable and length are required?
 5. What should pause for human judgment or approval?
 
-[Use the first-task prompt](STARTER-KIT.md#prompt-1-first-useful-task) to define these before you begin.
+[Use the first-task prompt](Practical%20Guide.md#prompt-1-first-useful-task) to define these before you begin.
 
 > **A better result usually starts with a better definition of done.**
 
@@ -95,7 +95,7 @@ I hope the attached cheat sheet and GitHub starter kit give you a practical plac
 
 ## Companion resources
 
-- [Complete practical starter guide](STARTER-KIT.md)
+- [Complete practical starter guide](Practical%20Guide.md)
 - [Reusable weekly leadership-update Skill](skills/weekly-leadership-update/SKILL.md)
 - [Official sources](SOURCES.md)
 
