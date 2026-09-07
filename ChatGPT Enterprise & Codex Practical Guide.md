@@ -1,4 +1,4 @@
-# ChatGPT Enterprise & Codex Starter Kit: Practical Guide
+# ChatGPT Enterprise & Codex Practical Guide
 
 This guide consolidates the first-use exercise, decision guide, prompts, examples, measurement approach, and governance checks for employees getting access to ChatGPT Enterprise or Codex.
 
